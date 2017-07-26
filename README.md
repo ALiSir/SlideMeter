@@ -3,9 +3,8 @@
 
 # 滑动倍数增加、倍数减少数值
 
-
-
-
+![实例图](https://github.com/ALiSir/SlideMeter/blob/master/img.png "实例图")
+![实例图](https://github.com/ALiSir/SlideMeter/blob/master/img_02.png "实例图")
 
 # 联系方式：
 
